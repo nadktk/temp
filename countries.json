@@ -1,0 +1,1460 @@
+[
+    {
+      "country": "Afghanistan",
+      "city": "Kabul",
+      "population": "22720000",
+      "density": "46.8"
+    },
+    {
+      "country": "Albania",
+      "city": "Tirana",
+      "population": "3401200",
+      "density": "101.23"
+    },
+    {
+      "country": "Algeria",
+      "city": "Alger",
+      "population": "31471000",
+      "density": "16.46"
+    },
+    {
+      "country": "American Samoa",
+      "city": "Fagatogo",
+      "population": "68000",
+      "density": "275.83"
+    },
+    {
+      "country": "Andorra",
+      "city": "Andorra la Vella",
+      "population": "78000",
+      "density": "168.55"
+    },
+    {
+      "country": "Angola",
+      "city": "Luanda",
+      "population": "12878000",
+      "density": "17.22"
+    },
+    {
+      "country": "Anguilla",
+      "city": "The Valley",
+      "population": "8000",
+      "density": null
+    },
+    {
+      "country": "Antarctica",
+      "city": null,
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "city": "Saint John's",
+      "population": "68000",
+      "density": "204.51"
+    },
+    {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "population": "37032000",
+      "density": "15.14"
+    },
+    {
+      "country": "Armenia",
+      "city": "Yerevan",
+      "population": "3520000",
+      "density": "104.55"
+    },
+    {
+      "country": "Aruba",
+      "city": "Oranjestad",
+      "population": "103000",
+      "density": "571.73"
+    },
+    {
+      "country": "Australia",
+      "city": "Canberra",
+      "population": "23840314",
+      "density": "3.01"
+    },
+    {
+      "country": "Austria",
+      "city": "Wien",
+      "population": "8091800",
+      "density": "102.83"
+    },
+    {
+      "country": "Azerbaijan",
+      "city": "Baku",
+      "population": "7734000",
+      "density": "113.92"
+    },
+    {
+      "country": "Bahamas",
+      "city": "Nassau",
+      "population": "307000",
+      "density": null
+    },
+    {
+      "country": "Bahrain",
+      "city": "al-Manama",
+      "population": "617000",
+      "density": "1"
+    },
+    {
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "population": "129155000",
+      "density": "1"
+    },
+    {
+      "country": "Barbados",
+      "city": "Bridgetown",
+      "population": "270000",
+      "density": "661.96"
+    },
+    {
+      "country": "Belarus",
+      "city": "Minsk",
+      "population": "10236000",
+      "density": "46.65"
+    },
+    {
+      "country": "Belgium",
+      "city": "Bruxelles [Brussel]",
+      "population": "10239000",
+      "density": "369.72"
+    },
+    {
+      "country": "Belize",
+      "city": "Belmopan",
+      "population": "241000",
+      "density": "14.55"
+    },
+    {
+      "country": "Benin",
+      "city": "Porto-Novo",
+      "population": "6097000",
+      "density": "91.55"
+    },
+    {
+      "country": "Bermuda",
+      "city": "Hamilton",
+      "population": "65000",
+      "density": "1"
+    },
+    {
+      "country": "Bhutan",
+      "city": "Thimphu",
+      "population": "2124000",
+      "density": "19.78"
+    },
+    {
+      "country": "Bolivia",
+      "city": "La Paz",
+      "population": "8329000",
+      "density": "9.85"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "city": "Sarajevo",
+      "population": "3972000",
+      "density": "75.08"
+    },
+    {
+      "country": "Botswana",
+      "city": "Gaborone",
+      "population": "1622000",
+      "density": "3.57"
+    },
+    {
+      "country": "Bouvet Island",
+      "city": null,
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Brazil",
+      "city": "Brasília",
+      "population": "170115000",
+      "density": "23.97"
+    },
+    {
+      "country": "British Indian Ocean Territory",
+      "city": null,
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Brunei",
+      "city": "Bandar Seri Begawan",
+      "population": "328000",
+      "density": null
+    },
+    {
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "population": "8190900",
+      "density": "66.92"
+    },
+    {
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "population": "11937000",
+      "density": "61.9"
+    },
+    {
+      "country": "Burundi",
+      "city": "Bujumbura",
+      "population": "6695000",
+      "density": "395.74"
+    },
+    {
+      "country": "Cambodia",
+      "city": "Phnom Penh",
+      "population": "11168000",
+      "density": "85.74"
+    },
+    {
+      "country": "Cameroon",
+      "city": "Yaound",
+      "population": "15085000",
+      "density": "47.08"
+    },
+    {
+      "country": "Canada",
+      "city": "Ottawa",
+      "population": "31147000",
+      "density": "3.87"
+    },
+    {
+      "country": "Cape Verde",
+      "city": "Praia",
+      "population": "428000",
+      "density": null
+    },
+    {
+      "country": "Cayman Islands",
+      "city": "George Town",
+      "population": "38000",
+      "density": "243.48"
+    },
+    {
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "population": "3615000",
+      "density": "7.41"
+    },
+    {
+      "country": "Chad",
+      "city": "N'Djam",
+      "population": "7651000",
+      "density": "10.19"
+    },
+    {
+      "country": "Chile",
+      "city": "Santiago de Chile",
+      "population": "15211000",
+      "density": "23.7"
+    },
+    {
+      "country": "China",
+      "city": "Peking",
+      "population": "1277558000",
+      "density": "144.58"
+    },
+    {
+      "country": "Christmas Island",
+      "city": "Flying Fish Cove",
+      "population": "2500",
+      "density": null
+    },
+    {
+      "country": "Cocos (Keeling) Islands",
+      "city": "West Island",
+      "population": "600",
+      "density": null
+    },
+    {
+      "country": "Colombia",
+      "city": "Santaf",
+      "population": "42321000",
+      "density": "43.55"
+    },
+    {
+      "country": "Comoros",
+      "city": "Moroni",
+      "population": "578000",
+      "density": "394.9"
+    },
+    {
+      "country": "Congo",
+      "city": "Brazzaville",
+      "population": "2943000",
+      "density": null
+    },
+    {
+      "country": "Cook Islands",
+      "city": "Avarua",
+      "population": "20000",
+      "density": null
+    },
+    {
+      "country": "Costa Rica",
+      "city": "San Jos",
+      "population": "4023000",
+      "density": "95.42"
+    },
+    {
+      "country": "Croatia",
+      "city": "Zagreb",
+      "population": "4473000",
+      "density": "76"
+    },
+    {
+      "country": "Cuba",
+      "city": "La Habana",
+      "population": "11201000",
+      "density": "105.84"
+    },
+    {
+      "country": "Cyprus",
+      "city": "Nicosia",
+      "population": "754700",
+      "density": "123.5"
+    },
+    {
+      "country": "Czech Republic",
+      "city": "Praha",
+      "population": "10278100",
+      "density": "136.24"
+    },
+    {
+      "country": "Denmark",
+      "city": "Copenhagen",
+      "population": "5330000",
+      "density": "132.31"
+    },
+    {
+      "country": "Djibouti",
+      "city": "Djibouti",
+      "population": "638000",
+      "density": "37.66"
+    },
+    {
+      "country": "Dominica",
+      "city": "Roseau",
+      "population": "71000",
+      "density": "96"
+    },
+    {
+      "country": "Dominican Republic",
+      "city": "Santo Domingo de Guzm",
+      "population": "8495000",
+      "density": "215.31"
+    },
+    {
+      "country": "East Timor",
+      "city": "Dili",
+      "population": "885000",
+      "density": null
+    },
+    {
+      "country": "Ecuador",
+      "city": "Quito",
+      "population": "12646000",
+      "density": "63.37"
+    },
+    {
+      "country": "Egypt",
+      "city": "Cairo",
+      "population": "68470000",
+      "density": null
+    },
+    {
+      "country": "El Salvador",
+      "city": "San Salvador",
+      "population": "6276000",
+      "density": "306.01"
+    },
+    {
+      "country": "England",
+      "city": "London",
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Equatorial Guinea",
+      "city": "Malabo",
+      "population": "453000",
+      "density": "26.99"
+    },
+    {
+      "country": "Eritrea",
+      "city": "Asmara",
+      "population": "6250000",
+      "density": "62.7"
+    },
+    {
+      "country": "Estonia",
+      "city": "Tallinn",
+      "population": "1439200",
+      "density": "31.25"
+    },
+    {
+      "country": "Ethiopia",
+      "city": "Addis Abeba",
+      "population": "78565000",
+      "density": "94.1"
+    },
+    {
+      "country": "Falkland Islands",
+      "city": "Stanley",
+      "population": "2000",
+      "density": null
+    },
+    {
+      "country": "Faroe Islands",
+      "city": "Tórshavn",
+      "population": "43000",
+      "density": null
+    },
+    {
+      "country": "Fiji Islands",
+      "city": "Suva",
+      "population": "817000",
+      "density": null
+    },
+    {
+      "country": "Finland",
+      "city": "Helsinki [Helsingfors]",
+      "population": "5171300",
+      "density": "17.9"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "population": "59225700",
+      "density": "120.59"
+    },
+    {
+      "country": "French Guiana",
+      "city": "Cayenne",
+      "population": "181000",
+      "density": null
+    },
+    {
+      "country": "French Polynesia",
+      "city": "Papeete",
+      "population": "235000",
+      "density": "75.64"
+    },
+    {
+      "country": "French Southern territories",
+      "city": null,
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Gabon",
+      "city": "Libreville",
+      "population": "1226000",
+      "density": "6.49"
+    },
+    {
+      "country": "Gambia",
+      "city": "Banjul",
+      "population": "1305000",
+      "density": null
+    },
+    {
+      "country": "Georgia",
+      "city": "Tbilisi",
+      "population": "4968000",
+      "density": "78.32"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "population": "82164700",
+      "density": "231.31"
+    },
+    {
+      "country": "Ghana",
+      "city": "Accra",
+      "population": "20212000",
+      "density": "113.85"
+    },
+    {
+      "country": "Gibraltar",
+      "city": "Gibraltar",
+      "population": "25000",
+      "density": null
+    },
+    {
+      "country": "Greece",
+      "city": "Athenai",
+      "population": "10545700",
+      "density": "85.59"
+    },
+    {
+      "country": "Greenland",
+      "city": "Nuuk",
+      "population": "56000",
+      "density": "0.14"
+    },
+    {
+      "country": "Grenada",
+      "city": "Saint George's",
+      "population": "94000",
+      "density": "311.46"
+    },
+    {
+      "country": "Guadeloupe",
+      "city": "Basse-Terre",
+      "population": "456000",
+      "density": null
+    },
+    {
+      "country": "Guam",
+      "city": "Aga",
+      "population": "168000",
+      "density": "305.79"
+    },
+    {
+      "country": "Guatemala",
+      "city": "Ciudad de Guatemala",
+      "population": "11385000",
+      "density": "144.35"
+    },
+    {
+      "country": "Guinea",
+      "city": "Conakry",
+      "population": "7430000",
+      "density": "47.8"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "city": "Bissau",
+      "population": "1213000",
+      "density": "60.61"
+    },
+    {
+      "country": "Guyana",
+      "city": "Georgetown",
+      "population": "861000",
+      "density": "4.06"
+    },
+    {
+      "country": "Haiti",
+      "city": "Port-au-Prince",
+      "population": "8222000",
+      "density": "374.36"
+    },
+    {
+      "country": "Heard Island and McDonald Islands",
+      "city": null,
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Holy See (Vatican City State)",
+      "city": "Citt",
+      "population": "1000",
+      "density": null
+    },
+    {
+      "country": "Honduras",
+      "city": "Tegucigalpa",
+      "population": "6485000",
+      "density": "72.37"
+    },
+    {
+      "country": "Hong Kong",
+      "city": "Victoria",
+      "population": "6782000",
+      "density": null
+    },
+    {
+      "country": "Hungary",
+      "city": "Budapest",
+      "population": "10043200",
+      "density": "109.33"
+    },
+    {
+      "country": "Iceland",
+      "city": "Reykjav",
+      "population": "279000",
+      "density": "3.22"
+    },
+    {
+      "country": "India",
+      "city": "New Delhi",
+      "population": "1013662000",
+      "density": "421.14"
+    },
+    {
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "population": "237641326",
+      "density": "124"
+    },
+    {
+      "country": "Iran",
+      "city": "Tehran",
+      "population": "67702000",
+      "density": null
+    },
+    {
+      "country": "Iraq",
+      "city": "Baghdad",
+      "population": "23115000",
+      "density": "76.94"
+    },
+    {
+      "country": "Ireland",
+      "city": "Dublin",
+      "population": "3775100",
+      "density": "66.7"
+    },
+    {
+      "country": "Israel",
+      "city": "Jerusalem",
+      "population": "6217000",
+      "density": "372.43"
+    },
+    {
+      "country": "Italy",
+      "city": "Roma",
+      "population": "57680000",
+      "density": "203.41"
+    },
+    {
+      "country": "Ivory Coast",
+      "city": "Yamoussoukro",
+      "population": "14786000",
+      "density": "63.89"
+    },
+    {
+      "country": "Jamaica",
+      "city": "Kingston",
+      "population": "2583000",
+      "density": "250.69"
+    },
+    {
+      "country": "Japan",
+      "city": "Tokyo",
+      "population": "126714000",
+      "density": "349.29"
+    },
+    {
+      "country": "Jordan",
+      "city": "Amman",
+      "population": "5083000",
+      "density": "72.75"
+    },
+    {
+      "country": "Kazakstan",
+      "city": "Astana",
+      "population": "16223000",
+      "density": null
+    },
+    {
+      "country": "Kenya",
+      "city": "Nairobi",
+      "population": "30080000",
+      "density": "77.93"
+    },
+    {
+      "country": "Kiribati",
+      "city": "Bairiki",
+      "population": "83000",
+      "density": "126.36"
+    },
+    {
+      "country": "Kuwait",
+      "city": "Kuwait",
+      "population": "1972000",
+      "density": "189.03"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "city": "Bishkek",
+      "population": "4699000",
+      "density": null
+    },
+    {
+      "country": "Laos",
+      "city": "Vientiane",
+      "population": "5433000",
+      "density": null
+    },
+    {
+      "country": "Latvia",
+      "city": "Riga",
+      "population": "2424200",
+      "density": "32.38"
+    },
+    {
+      "country": "Lebanon",
+      "city": "Beirut",
+      "population": "3282000",
+      "density": "436.7"
+    },
+    {
+      "country": "Lesotho",
+      "city": "Maseru",
+      "population": "2153000",
+      "density": "68.33"
+    },
+    {
+      "country": "Liberia",
+      "city": "Monrovia",
+      "population": "3154000",
+      "density": "44.58"
+    },
+    {
+      "country": "Libyan Arab Jamahiriya",
+      "city": "Tripoli",
+      "population": "5605000",
+      "density": null
+    },
+    {
+      "country": "Liechtenstein",
+      "city": "Vaduz",
+      "population": "32300",
+      "density": "230.78"
+    },
+    {
+      "country": "Lithuania",
+      "city": "Vilnius",
+      "population": "3698500",
+      "density": "47.17"
+    },
+    {
+      "country": "Luxembourg",
+      "city": "Luxembourg [Luxemburg/L",
+      "population": "435700",
+      "density": "209.73"
+    },
+    {
+      "country": "Macao",
+      "city": "Macao",
+      "population": "473000",
+      "density": null
+    },
+    {
+      "country": "Macedonia",
+      "city": "Skopje",
+      "population": "2024000",
+      "density": null
+    },
+    {
+      "country": "Madagascar",
+      "city": "Antananarivo",
+      "population": "15942000",
+      "density": "39.4"
+    },
+    {
+      "country": "Malawi",
+      "city": "Lilongwe",
+      "population": "10925000",
+      "density": "173.55"
+    },
+    {
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "population": "22244000",
+      "density": "90.45"
+    },
+    {
+      "country": "Maldives",
+      "city": "Male",
+      "population": "286000",
+      "density": "1"
+    },
+    {
+      "country": "Mali",
+      "city": "Bamako",
+      "population": "11234000",
+      "density": "12.54"
+    },
+    {
+      "country": "Malta",
+      "city": "Valletta",
+      "population": "380200",
+      "density": "1"
+    },
+    {
+      "country": "Marshall Islands",
+      "city": "Dalap-Uliga-Darrit",
+      "population": "64000",
+      "density": "292.41"
+    },
+    {
+      "country": "Martinique",
+      "city": "Fort-de-France",
+      "population": "395000",
+      "density": null
+    },
+    {
+      "country": "Mauritania",
+      "city": "Nouakchott",
+      "population": "2670000",
+      "density": "3.77"
+    },
+    {
+      "country": "Mauritius",
+      "city": "Port-Louis",
+      "population": "1158000",
+      "density": "638.57"
+    },
+    {
+      "country": "Mayotte",
+      "city": "Mamoutzou",
+      "population": "149000",
+      "density": null
+    },
+    {
+      "country": "Mexico",
+      "city": "Ciudad de M",
+      "population": "98881000",
+      "density": "62.93"
+    },
+    {
+      "country": "Micronesia, Federated States of",
+      "city": "Palikir",
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Moldova",
+      "city": "Chisinau",
+      "population": "4380000",
+      "density": "124.02"
+    },
+    {
+      "country": "Monaco",
+      "city": "Monaco-Ville",
+      "population": "34000",
+      "density": "18"
+    },
+    {
+      "country": "Mongolia",
+      "city": "Ulan Bator",
+      "population": "2662000",
+      "density": "1.83"
+    },
+    {
+      "country": "Montserrat",
+      "city": "Plymouth",
+      "population": "11000",
+      "density": null
+    },
+    {
+      "country": "Morocco",
+      "city": "Rabat",
+      "population": "28351000",
+      "density": "73.96"
+    },
+    {
+      "country": "Mozambique",
+      "city": "Maputo",
+      "population": "19680000",
+      "density": "32.85"
+    },
+    {
+      "country": "Myanmar",
+      "city": "Rangoon (Yangon)",
+      "population": "45611000",
+      "density": "81.52"
+    },
+    {
+      "country": "Namibia",
+      "city": "Windhoek",
+      "population": "1726000",
+      "density": "2.8"
+    },
+    {
+      "country": "Nauru",
+      "city": "Yaren",
+      "population": "12000",
+      "density": null
+    },
+    {
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "population": "26494504",
+      "density": "193.91"
+    },
+    {
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "population": "15864000",
+      "density": "498.35"
+    },
+    {
+      "country": "Netherlands Antilles",
+      "city": "Willemstad",
+      "population": "217000",
+      "density": null
+    },
+    {
+      "country": "New Caledonia",
+      "city": "Noum",
+      "population": "214000",
+      "density": "14.33"
+    },
+    {
+      "country": "New Zealand",
+      "city": "Wellington",
+      "population": "3862000",
+      "density": "16.98"
+    },
+    {
+      "country": "Nicaragua",
+      "city": "Managua",
+      "population": "5074000",
+      "density": "50.53"
+    },
+    {
+      "country": "Niger",
+      "city": "Niamey",
+      "population": "10730000",
+      "density": "14.08"
+    },
+    {
+      "country": "Nigeria",
+      "city": "Abuja",
+      "population": "111506000",
+      "density": "190.62"
+    },
+    {
+      "country": "Niue",
+      "city": "Alofi",
+      "population": "2000",
+      "density": null
+    },
+    {
+      "country": "Norfolk Island",
+      "city": "Kingston",
+      "population": "2000",
+      "density": null
+    },
+    {
+      "country": "North Korea",
+      "city": "Pyongyang",
+      "population": "24039000",
+      "density": null
+    },
+    {
+      "country": "Northern Ireland",
+      "city": "Belfast",
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "city": "Garapan",
+      "population": "78000",
+      "density": "117.08"
+    },
+    {
+      "country": "Norway",
+      "city": "Oslo",
+      "population": "4478500",
+      "density": "13.92"
+    },
+    {
+      "country": "Oman",
+      "city": "Masqat",
+      "population": "2542000",
+      "density": "11.74"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "population": "156483000",
+      "density": "236.28"
+    },
+    {
+      "country": "Palau",
+      "city": "Koror",
+      "population": "19000",
+      "density": "45.47"
+    },
+    {
+      "country": "Palestine",
+      "city": "Gaza",
+      "population": "3101000",
+      "density": null
+    },
+    {
+      "country": "Panama",
+      "city": "Ciudad de Panam",
+      "population": "2856000",
+      "density": "51.98"
+    },
+    {
+      "country": "Papua New Guinea",
+      "city": "Port Moresby",
+      "population": "4807000",
+      "density": "16.17"
+    },
+    {
+      "country": "Paraguay",
+      "city": "Asunci",
+      "population": "5496000",
+      "density": "17.12"
+    },
+    {
+      "country": "Peru",
+      "city": "Lima",
+      "population": "25662000",
+      "density": "23.73"
+    },
+    {
+      "country": "Philippines",
+      "city": "Manila",
+      "population": "75967000",
+      "density": "329.99"
+    },
+    {
+      "country": "Pitcairn",
+      "city": "Adamstown",
+      "population": "50",
+      "density": null
+    },
+    {
+      "country": "Poland",
+      "city": "Warszawa",
+      "population": "38653600",
+      "density": "125.83"
+    },
+    {
+      "country": "Portugal",
+      "city": "Lisboa",
+      "population": "9997600",
+      "density": "114.2"
+    },
+    {
+      "country": "Puerto Rico",
+      "city": "San Juan",
+      "population": "3869000",
+      "density": "407.56"
+    },
+    {
+      "country": "Qatar",
+      "city": "Doha",
+      "population": "599000",
+      "density": "186.79"
+    },
+    {
+      "country": "Reunion",
+      "city": "Saint-Denis",
+      "population": "699000",
+      "density": null
+    },
+    {
+      "country": "Romania",
+      "city": "Bucuresti",
+      "population": "22455500",
+      "density": "86.79"
+    },
+    {
+      "country": "Russian Federation",
+      "city": "Moscow",
+      "population": "146934000",
+      "density": "8.76"
+    },
+    {
+      "country": "Rwanda",
+      "city": "Kigali",
+      "population": "7733000",
+      "density": "477.36"
+    },
+    {
+      "country": "Saint Helena",
+      "city": "Jamestown",
+      "population": "6000",
+      "density": null
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "city": "Basseterre",
+      "population": "38000",
+      "density": null
+    },
+    {
+      "country": "Saint Lucia",
+      "city": "Castries",
+      "population": "154000",
+      "density": null
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "city": "Saint-Pierre",
+      "population": "7000",
+      "density": null
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "city": "Kingstown",
+      "population": "114000",
+      "density": null
+    },
+    {
+      "country": "Samoa",
+      "city": "Apia",
+      "population": "180000",
+      "density": "67.27"
+    },
+    {
+      "country": "San Marino",
+      "city": "San Marino",
+      "population": "27000",
+      "density": "524.13"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "city": "S",
+      "population": "147000",
+      "density": "201.03"
+    },
+    {
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "population": "21607000",
+      "density": "13.41"
+    },
+    {
+      "country": "Scotland",
+      "city": "Edinburgh",
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Senegal",
+      "city": "Dakar",
+      "population": "9481000",
+      "density": "73.41"
+    },
+    {
+      "country": "Seychelles",
+      "city": "Victoria",
+      "population": "77000",
+      "density": "193.85"
+    },
+    {
+      "country": "Sierra Leone",
+      "city": "Freetown",
+      "population": "4854000",
+      "density": "84.4"
+    },
+    {
+      "country": "Singapore",
+      "city": "Singapore",
+      "population": "3567000",
+      "density": "7"
+    },
+    {
+      "country": "Slovakia",
+      "city": "Bratislava",
+      "population": "5398700",
+      "density": null
+    },
+    {
+      "country": "Slovenia",
+      "city": "Ljubljana",
+      "population": "1987800",
+      "density": "102.31"
+    },
+    {
+      "country": "Solomon Islands",
+      "city": "Honiara",
+      "population": "444000",
+      "density": "20.05"
+    },
+    {
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "population": "10097000",
+      "density": "16.73"
+    },
+    {
+      "country": "South Africa",
+      "city": "Pretoria",
+      "population": "40377000",
+      "density": "43.68"
+    },
+    {
+      "country": "South Georgia and the South Sandwich Islands",
+      "city": null,
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "South Korea",
+      "city": "Seoul",
+      "population": "46844000",
+      "density": null
+    },
+    {
+      "country": "South Sudan",
+      "city": "Juba",
+      "population": "12042910",
+      "density": "0"
+    },
+    {
+      "country": "Spain",
+      "city": "Madrid",
+      "population": "39441700",
+      "density": "93.52"
+    },
+    {
+      "country": "SriLanka",
+      "city": null,
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Sudan",
+      "city": "Khartum",
+      "population": "29490000",
+      "density": "20.73"
+    },
+    {
+      "country": "Suriname",
+      "city": "Paramaribo",
+      "population": "417000",
+      "density": "3.46"
+    },
+    {
+      "country": "Svalbard and Jan Mayen",
+      "city": "Longyearbyen",
+      "population": "3200",
+      "density": null
+    },
+    {
+      "country": "Swaziland",
+      "city": "Mbabane",
+      "population": "1008000",
+      "density": "72.65"
+    },
+    {
+      "country": "Sweden",
+      "city": "Stockholm",
+      "population": "8861400",
+      "density": "23.55"
+    },
+    {
+      "country": "Switzerland",
+      "city": "Bern",
+      "population": "7160400",
+      "density": "204.51"
+    },
+    {
+      "country": "Syria",
+      "city": "Damascus",
+      "population": "16125000",
+      "density": null
+    },
+    {
+      "country": "Tajikistan",
+      "city": "Dushanbe",
+      "population": "6188000",
+      "density": "58.64"
+    },
+    {
+      "country": "Tanzania",
+      "city": "Dodoma",
+      "population": "33517000",
+      "density": "55.6"
+    },
+    {
+      "country": "Thailand",
+      "city": "Bangkok",
+      "population": "61399000",
+      "density": "131.16"
+    },
+    {
+      "country": "The Democratic Republic of Congo",
+      "city": null,
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Togo",
+      "city": "Lom",
+      "population": "4629000",
+      "density": "125.34"
+    },
+    {
+      "country": "Tokelau",
+      "city": "Fakaofo",
+      "population": "2000",
+      "density": null
+    },
+    {
+      "country": "Tonga",
+      "city": "Nuku'alofa",
+      "population": "99000",
+      "density": "146.28"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "city": "Port-of-Spain",
+      "population": "1295000",
+      "density": "261.43"
+    },
+    {
+      "country": "Tunisia",
+      "city": "Tunis",
+      "population": "9586000",
+      "density": "70.07"
+    },
+    {
+      "country": "Turkey",
+      "city": "Ankara",
+      "population": "66591000",
+      "density": "97.36"
+    },
+    {
+      "country": "Turkmenistan",
+      "city": "Ashgabat",
+      "population": "4459000",
+      "density": "11.15"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "city": "Cockburn Town",
+      "population": "17000",
+      "density": "34.84"
+    },
+    {
+      "country": "Tuvalu",
+      "city": "Funafuti",
+      "population": "12000",
+      "density": "329.2"
+    },
+    {
+      "country": "Uganda",
+      "city": "Kampala",
+      "population": "21778000",
+      "density": "188.07"
+    },
+    {
+      "country": "Ukraine",
+      "city": "Kyiv",
+      "population": "50456000",
+      "density": "78.52"
+    },
+    {
+      "country": "United Arab Emirates",
+      "city": "Abu Dhabi",
+      "population": "2441000",
+      "density": "111.8"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "population": "59623400",
+      "density": "264.94"
+    },
+    {
+      "country": "United States",
+      "city": "Washington",
+      "population": "278357000",
+      "density": "34.56"
+    },
+    {
+      "country": "United States Minor Outlying Islands",
+      "city": null,
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Uruguay",
+      "city": "Montevideo",
+      "population": "3337000",
+      "density": "19.47"
+    },
+    {
+      "country": "Uzbekistan",
+      "city": "Toskent",
+      "population": "24318000",
+      "density": "71.09"
+    },
+    {
+      "country": "Vanuatu",
+      "city": "Port-Vila",
+      "population": "190000",
+      "density": "20.74"
+    },
+    {
+      "country": "Venezuela",
+      "city": "Caracas",
+      "population": "24170000",
+      "density": null
+    },
+    {
+      "country": "Vietnam",
+      "city": "Hanoi",
+      "population": "79832000",
+      "density": "289.32"
+    },
+    {
+      "country": "Virgin Islands, British",
+      "city": "Road Town",
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Virgin Islands, U.S.",
+      "city": "Charlotte Amalie",
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Wales",
+      "city": "Cardiff",
+      "population": null,
+      "density": null
+    },
+    {
+      "country": "Wallis and Futuna",
+      "city": "Mata-Utu",
+      "population": "15000",
+      "density": null
+    },
+    {
+      "country": "Western Sahara",
+      "city": "El-Aai",
+      "population": "293000",
+      "density": null
+    },
+    {
+      "country": "Yemen",
+      "city": "Sanaa",
+      "population": "18112000",
+      "density": null
+    },
+    {
+      "country": "Yugoslavia",
+      "city": "Beograd",
+      "population": "10640000",
+      "density": null
+    },
+    {
+      "country": "Zambia",
+      "city": "Lusaka",
+      "population": "9169000",
+      "density": "19.56"
+    },
+    {
+      "country": "Zimbabwe",
+      "city": "Harare",
+      "population": "11669000",
+      "density": "36.58"
+    }
+  ]
